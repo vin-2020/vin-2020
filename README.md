@@ -1,61 +1,96 @@
 Hi there 👋
 
-I’m Vinodh Kumar Rajkumar – Systems Engineer (INCOSE ASEP, MSc Astronautics & Space Engineering) working on aerospace systems, digital engineering, and engineering automation.
+I’m Vinodh Kumar Rajkumar – Systems Engineer (INCOSE ASEP, MSc Astronautics & Space Engineering)
+Working on aerospace systems, digital engineering, and engineering automation.
 
-My core interests are electric propulsion, MBSE (SysML), and building tools that improve how engineers design and verify systems.
+My core interests:
+
+Electric propulsion
+
+MBSE (SysML)
+
+Engineering tool development
+
+🚀 Highlighted Engineering Projects
+ReqCheck – Automated Requirements Analysis Tool
+
+Python-based NLP engine for requirements quality assessment
+
+Detects ambiguity, incompleteness, and verification risk
+
+Built using INCOSE requirement quality guidelines
+
+Focus: early risk identification in the product lifecycle
+
+Downfall – Anonymous Experience Learning Platform
+
+Structured platform for sharing real professional & life experiences
+
+Enforces: Situation → Context → Learning → Intent
+
+Focused on actionable insight, not venting or social noise
+
+Codyssey – Systems-Oriented Engineering Learning Platform
+
+Project-driven platform for learning:
+
+Python, Java, and SysML
+
+Progressive tool unlocking & real engineering workflows
+
+Portfolio-oriented outputs for job readiness
+
+Air-Breathing Hall Effect Thruster
+
+Plasma simulation & CAD-based prototype
+
+Performance: ~0.5 N thrust, ~43% efficiency
+
+CubeSat Swarm (NUPROSSES)
+
+Deployment door design
+
+Preliminary propulsion sizing
 
 🔭 What I’m working on
 
-CubeSat and propulsion projects (thrusters, deployment systems)
+CubeSat & propulsion projects
 
-MBSE practices with SysML (Sparx EA, DOORS)
+MBSE with SysML (Sparx EA, DOORS)
 
-AI-driven engineering tools (ReqCheck)
+AI-driven engineering tools
 
-Engineering learning & systems-thinking platforms (Codyssey)
+Engineering learning & systems-thinking platforms
 
 🌱 Currently learning
 
-Advanced AI/ML for engineering applications (EITCA AI Academy)
+Advanced AI/ML for engineering (EITCA AI Academy)
 
-Digital engineering workflows with MBSE
+Digital engineering workflows (MBSE)
 
-Satellite mission design and operations
+Satellite mission design & operations
 
 🛠 Skills & Tools
 
 Programming: Python, MATLAB, C++, Java
-MBSE: SysML, DOORS, Sparx Enterprise Architect
+
+MBSE: SysML, DOORS, Sparx EA
+
 Simulation: STK, FEMM, Ansys Fluent, HallThruster.jl
-CAD/Design: CATIA, SolidWorks, AutoCAD
+
+CAD: CATIA, SolidWorks, AutoCAD
 
 📜 Certifications
 
-INCOSE ASEP (valid till 2030)
+INCOSE ASEP (2030)
 
-SysML v1.7 (Udemy)
+SysML v1.7
 
-MBSE with Siemens (Coursera)
+MBSE (Siemens)
 
-Product Development & Systems Engineering (INCOSE/ISO 15288)
+Product Development & Systems Engineering (INCOSE / ISO 15288)
 
-Python Programming (CoddeX)
-
-🚀 Highlighted Projects
-
-ReqCheck – Automated Requirements Analysis Tool
-Python-based tool to detect ambiguity, incompleteness, and verification risk using NLP and INCOSE guidelines.
-
-Downfall – Anonymous Experience Learning Platform
-Structured platform for sharing real professional and life experiences with actionable learning.
-
-Codyssey – Systems-Oriented Engineering Learning Platform
-Project-driven platform for learning Python, Java, and SysML through real-world engineering workflows.
-
-Air-Breathing Hall Effect Thruster
-Plasma simulation & CAD-based prototype (~0.5 N thrust, ~43% efficiency).
-
-CubeSat Swarm (NUPROSSES)
+Python (CoddeX)
 Deployment door design & preliminary propulsion sizing.
 
 📫 How to reach me
