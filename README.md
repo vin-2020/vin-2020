@@ -10,9 +10,9 @@ CubeSat and propulsion projects (thrusters, deployment systems)
 
 MBSE practices with SysML (Sparx EA, DOORS)
 
-AI-driven engineering tools (ReqCheck – requirements quality analyzer)
+AI-driven engineering tools (ReqCheck)
 
-Engineering platforms for learning and systems thinking (Codyssey)
+Engineering learning & systems-thinking platforms (Codyssey)
 
 🌱 Currently learning
 
@@ -25,11 +25,8 @@ Satellite mission design and operations
 🛠 Skills & Tools
 
 Programming: Python, MATLAB, C++, Java
-
 MBSE: SysML, DOORS, Sparx Enterprise Architect
-
 Simulation: STK, FEMM, Ansys Fluent, HallThruster.jl
-
 CAD/Design: CATIA, SolidWorks, AutoCAD
 
 📜 Certifications
@@ -47,10 +44,10 @@ Python Programming (CoddeX)
 🚀 Highlighted Projects
 
 ReqCheck – Automated Requirements Analysis Tool
-Python-based tool to detect ambiguity, incompleteness, and verification risk in engineering requirements using NLP and INCOSE guidelines.
+Python-based tool to detect ambiguity, incompleteness, and verification risk using NLP and INCOSE guidelines.
 
 Downfall – Anonymous Experience Learning Platform
-A structured platform for sharing real professional and life experiences, focused on learning and actionable insights.
+Structured platform for sharing real professional and life experiences with actionable learning.
 
 Codyssey – Systems-Oriented Engineering Learning Platform
 Project-driven platform for learning Python, Java, and SysML through real-world engineering workflows.
@@ -65,6 +62,6 @@ Deployment door design & preliminary propulsion sizing.
 
 Email: vinodhkumar.rajkumar@gmail.com
 
-LinkedIn: linkedin.com/in/vinodh-kr
+LinkedIn: https://www.linkedin.com/in/vinodh-kr  
 
 ⭐️ Feel free to explore my repositories and connect — I’m always open to collaborations in aerospace systems, MBSE, and engineering software.
