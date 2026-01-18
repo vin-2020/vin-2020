@@ -1,102 +1,86 @@
-Hi there 👋
 
-I’m Vinodh Kumar Rajkumar – Systems Engineer (INCOSE ASEP, MSc Astronautics & Space Engineering)
-Working on aerospace systems, digital engineering, and engineering automation.
+# Hi there 👋
 
-My core interests:
+I’m **Vinodh Kumar Rajkumar** – Systems Engineer (**INCOSE ASEP**, MSc Astronautics & Space Engineering).  
+I work on **aerospace systems, digital engineering, and engineering automation**.
 
-Electric propulsion
+**My core interests:**
+* Electric propulsion
+* MBSE (SysML)
+* Engineering tool development
 
-MBSE (SysML)
+---
 
-Engineering tool development
+## 🚀 Highlighted Engineering Projects
 
-🚀 Highlighted Engineering Projects
-ReqCheck – Automated Requirements Analysis Tool
+### **ReqCheck – Automated Requirements Analysis Tool**
+* **What it is:** A Python-based NLP engine for requirements quality assessment.
+* **Key Features:** Detects ambiguity, incompleteness, and verification risk.
+* **Standard:** Built using **INCOSE requirement quality guidelines**.
+* **Focus:** Early risk identification in the product lifecycle.
 
-Python-based NLP engine for requirements quality assessment
+### **Downfall – Anonymous Experience Learning Platform**
+* **What it is:** A structured platform for sharing real professional & life experiences.
+* **Structure:** Enforces a strict flow: **Situation → Context → Learning → Intent**.
+* **Goal:** Focused on actionable insight, not venting or social noise.
 
-Detects ambiguity, incompleteness, and verification risk
+### **Codyssey – Systems-Oriented Engineering Learning Platform**
+* **What it is:** A project-driven platform for learning engineering workflows.
+* **Curriculum:** Covers Python, Java, and **SysML**.
+* **Method:** Progressive tool unlocking & real engineering workflows.
+* **Outcome:** Portfolio-oriented outputs for job readiness.
 
-Built using INCOSE requirement quality guidelines
+---
 
-Focus: early risk identification in the product lifecycle
+## 🛰️ Engineering Research
 
-Downfall – Anonymous Experience Learning Platform
+* **Air-Breathing Hall Effect Thruster:**
+    * Plasma simulation & CAD-based prototype.
+    * **Performance:** ~0.5 N thrust, ~43% efficiency.
+* **CubeSat Swarm (NUPROSSES):**
+    * Deployment door design.
+    * Preliminary propulsion sizing.
 
-Structured platform for sharing real professional & life experiences
+---
 
-Enforces: Situation → Context → Learning → Intent
+## 🔭 What I’m working on
+* CubeSat & propulsion projects
+* MBSE with SysML (Sparx EA, DOORS)
+* AI-driven engineering tools
+* Engineering learning & systems-thinking platforms
 
-Focused on actionable insight, not venting or social noise
+## 🌱 Currently learning
+* Advanced AI/ML for engineering (EITCA AI Academy)
+* Digital engineering workflows (MBSE)
+* Satellite mission design & operations
 
-Codyssey – Systems-Oriented Engineering Learning Platform
+---
 
-Project-driven platform for learning:
+## 🛠 Skills & Tools
 
-Python, Java, and SysML
+| Category | Tools |
+| :--- | :--- |
+| **Programming** | Python, MATLAB, C++, Java |
+| **MBSE** | SysML, DOORS, Sparx EA |
+| **Simulation** | STK, FEMM, Ansys Fluent, HallThruster.jl |
+| **CAD** | CATIA, SolidWorks, AutoCAD |
 
-Progressive tool unlocking & real engineering workflows
+---
 
-Portfolio-oriented outputs for job readiness
+## 📜 Certifications
+* **INCOSE ASEP** (Valid until 2030)
+* SysML v1.7
+* MBSE (Siemens)
+* Product Development & Systems Engineering (INCOSE / ISO 15288)
+* Python (CoddeX)
 
-Air-Breathing Hall Effect Thruster
+---
 
-Plasma simulation & CAD-based prototype
+## 📫 How to reach me
+* 📧 **Email:** [vinodhkumar.rajkumar@gmail.com](mailto:vinodhkumar.rajkumar@gmail.com)
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/vinodh-kr](https://www.linkedin.com/in/vinodh-kr)
 
-Performance: ~0.5 N thrust, ~43% efficiency
-
-CubeSat Swarm (NUPROSSES)
-
-Deployment door design
-
-Preliminary propulsion sizing
-
-🔭 What I’m working on
-
-CubeSat & propulsion projects
-
-MBSE with SysML (Sparx EA, DOORS)
-
-AI-driven engineering tools
-
-Engineering learning & systems-thinking platforms
-
-🌱 Currently learning
-
-Advanced AI/ML for engineering (EITCA AI Academy)
-
-Digital engineering workflows (MBSE)
-
-Satellite mission design & operations
-
-🛠 Skills & Tools
-
-Programming: Python, MATLAB, C++, Java
-
-MBSE: SysML, DOORS, Sparx EA
-
-Simulation: STK, FEMM, Ansys Fluent, HallThruster.jl
-
-CAD: CATIA, SolidWorks, AutoCAD
-
-📜 Certifications
-
-INCOSE ASEP (2030)
-
-SysML v1.7
-
-MBSE (Siemens)
-
-Product Development & Systems Engineering (INCOSE / ISO 15288)
-
-Python (CoddeX)
-Deployment door design & preliminary propulsion sizing.
-
+⭐️ *Feel free to explore my repositories and connect — I’m always open to collaborations in aerospace systems, MBSE, and engineering software.*
 📫 How to reach me
 
-Email: vinodhkumar.rajkumar@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/vinodh-kr  
-
-⭐️ Feel free to explore my repositories and connect — I’m always open to collaborations in aerospace systems, MBSE, and engineering software.
